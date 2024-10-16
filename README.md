@@ -1,15 +1,15 @@
 # 💫 About Me:
 Hello! I’m a student studying Diploma in Information Technology (N54) at Ngee Ann Polytechnic in Singapore. I love creating intuitive and user-friendly digital experiences and am excited about the journey ahead in tech!
 
-<br><br>🎨 Hobbies
-<br>- 📺 Watching shows
-<br>- ✏️ Designing various projects
-<br>- 🎮 Playing simulators
+🎨 Hobbies
+- 📺 Watching shows
+- ✏️ Designing various projects
+- 🎮 Playing simulators
 
-<br><br>🌟 Future Aspirations
-<br>- Web Designer 🖥️
-<br>- UI/UX Designer 🎨
-<br>- Front-End Developer 💻
+🌟 Future Aspirations
+- Web Designer 🖥️
+- UI/UX Designer 🎨
+- Front-End Developer 💻
 
 
 ## 🌐 Socials:
